@@ -8,7 +8,7 @@ export const Container = styled.div`
   background-color: #ebe8e8;
   width: 250px;
   margin: auto;
-  margin-top: 100px;
+  padding-top: 50px;
 `;
 export const Avatar = styled.img`
   width: 150px;
